@@ -6,8 +6,6 @@
 
 Dashboard to track the spread of the coronavirus.
 
-[Tracker](https://shiny.john-coene.com/coronavirus) | [Docs](https://coronavirus.john-coene.com) | [API](https://coronavirus.john-coene.com/#/api) | [Changelog](NEWS.md)
-
 </div>
 
 ## Technologies used
